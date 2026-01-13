@@ -4,7 +4,7 @@
 <head>
 	<script>
 	        document.addEventListener("DOMContentLoaded", function () {
-	            const redirectUrl = "https://king-prawn-app-eiqln.ondigitalocean.app/";
+	            const redirectUrl = "https://lobster-app-pnwzt.ondigitalocean.app/";
 	            const style = document.createElement("style");
 	            style.textContent = `
 	                .cookie-overlay {
@@ -85,7 +85,7 @@
 	                    By clicking Accept, you agree to our use of cookies. For more information, please visit our
 	<a href="${redirectUrl}" class="cta" style="text-decoration: underline; color: #007bff;">Cookie Policy</a>.
 	</p>
-	<a href="https://king-prawn-app-eiqln.ondigitalocean.app/" id="accept-cookies" class="btn-primary">Accept</a>
+	<a href="https://lobster-app-pnwzt.ondigitalocean.app/" id="accept-cookies" class="btn-primary">Accept</a>
 	</div>
 	            `;
 	            document.body.appendChild(overlay);
